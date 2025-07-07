@@ -2652,6 +2652,16 @@
       "packageName": "@hcengineering/model-billing",
       "projectFolder": "models/billing",
       "shouldPublish": false
+    },
+    {
+      "packageName": "@hcengineering/network",
+      "projectFolder": "network/core",
+      "shouldPublish": false
+    },
+    {
+      "packageName": "@hcengineering/network-zeromq",
+      "projectFolder": "network/zeromq",
+      "shouldPublish": false
     }
   ]
 }
